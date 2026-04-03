@@ -3,9 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>ini</title>
+    <title>contoh</title>
 </head>
 <body>
-    haloo saya zulha
+    haloo saya zulha dan iyan
 </body>
 </html>
