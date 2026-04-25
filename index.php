@@ -6,6 +6,6 @@
     <title>contoh</title>
 </head>
 <body>
-    haloo saya zulha dan iyan
+    haloo saya iyan
 </body>
 </html>
