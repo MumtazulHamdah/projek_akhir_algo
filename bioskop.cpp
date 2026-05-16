@@ -308,7 +308,7 @@ int main() {
         cout << "5. Tampilkan Riwayat\n";
         cout << "6. Simpan Data Ke File\n";
         cout << "0. Keluar\n";
-
+        cout << "---------------------------------------------------------------\n";
         cout << "\nPilih Menu : ";
         cin >> pilih;
 
