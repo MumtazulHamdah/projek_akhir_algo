@@ -211,12 +211,9 @@ void tambahRiwayat(const char *nama,
 }
 
 void pesanTiket() {
-
     char nama[100];
     char film[100];
-
     tampilFilm();
-
     cin.ignore();
 
     cout << "\nMasukkan Nama Pemesan : ";
